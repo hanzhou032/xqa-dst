@@ -59,7 +59,7 @@ Partial codes are modified from [TripPy: A Triple Copy Strategy for Value Indepe
 1. Add support for new multi-lingual ToD datasets.
 2. Replace the framework to the newest version of Huggingface transformers.
 
-## Cination
+## Citation
 If you find our work to be useful, please cite:
 ```
 @article{zhou2022xqa,
