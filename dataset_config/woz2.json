@@ -1,0 +1,262 @@
+{
+  "class_types": [
+    "none",
+    "dontcare",
+    "copy_value",
+    "inform"
+  ],
+  "slots": [
+    "area",
+    "food",
+    "price_range"
+  ],
+  "label_maps": {
+    "center": [
+      "centre",
+      "downtown",
+      "central",
+      "down town",
+      "middle",
+      "city center"
+    ],
+    "south": [
+      "southern",
+      "southside",
+      "south part",
+      "south side"
+    ],
+    "north": [
+      "northern",
+      "uptown",
+      "northside",
+      "north part",
+      "northern part"
+    ],
+    "west": [
+      "western",
+      "westside",
+      "west part",
+      "western part"
+    ],
+    "east": [
+      "eastern",
+      "eastside",
+      "east part",
+      "eastern part"
+    ],
+    "east side": [
+      "eastern",
+      "eastside"
+    ],
+    "cheap": [
+      "low price",
+      "inexpensive",
+      "cheaper",
+      "low priced",
+      "affordable",
+      "nothing too expensive",
+      "without costing a fortune",
+      "cheapest",
+      "good deals",
+      "low prices",
+      "afford",
+      "on a budget",
+      "fair prices",
+      "less expensive",
+      "cheapeast",
+      "not cost an arm and a leg",
+      "favorable",
+      "affordable price",
+      "good price",
+      "economic"
+    ],
+    "moderate": [
+      "moderately",
+      "medium priced",
+      "medium price",
+      "fair price",
+      "fair prices",
+      "reasonable",
+      "reasonably priced",
+      "mid price",
+      "fairly priced",
+      "not outrageous",
+      "not too expensive",
+      "on a budget",
+      "mid range",
+      "reasonable priced",
+      "less expensive",
+      "not too pricey",
+      "nothing too expensive",
+      "nothing cheap",
+      "not overpriced",
+      "medium",
+      "inexpensive",
+      "middle",
+      "moderately expensive",
+      "modest",
+      "acceptable",
+      "honest prices",
+      "content",
+      "not so expensive",
+      "medium - low",
+      "mid - range",
+      "not too expensive , not too cheap",
+      "intermediate",
+      "not too much"
+    ],
+    "expensive": [
+      "high priced",
+      "high end",
+      "high class",
+      "high quality",
+      "fancy",
+      "upscale",
+      "nice",
+      "fine dining",
+      "expensively priced",
+      "high - priced",
+      "costly",
+      "high"
+    ],
+    "afghan": [
+      "afghanistan"
+    ],
+    "african": [
+      "africa"
+    ],
+    "asian oriental": [
+      "asian",
+      "oriental",
+      "asian - oriental",
+      "asia oriental",
+      "east asia",
+      "eastern asian",
+      "asian / oriental",
+      "east side",
+      "eastern asia"
+    ],
+    "australasian": [
+      "australian asian",
+      "austral asian"
+    ],
+    "australian": [
+      "aussie"
+    ],
+    "barbeque": [
+      "barbecue",
+      "bbq"
+    ],
+    "basque": [
+      "bask"
+    ],
+    "belgian": [
+      "belgium",
+      "modern belgian"
+    ],
+    "british": [
+      "cotto",
+      "british cuisine",
+      "british dishes"
+    ],
+    "canapes": [
+      "canopy",
+      "canape",
+      "canap"
+    ],
+    "catalan": [
+      "catalonian"
+    ],
+    "corsican": [
+      "corsica"
+    ],
+    "crossover": [
+      "cross over",
+      "over"
+    ],
+    "gastropub": [
+      "gastro pub",
+      "gastro",
+      "gastropubs"
+    ],
+    "hungarian": [
+      "goulash"
+    ],
+    "indian": [
+      "india",
+      "indians",
+      "nirala",
+      "indiana"
+    ],
+    "international": [
+      "all types of food"
+    ],
+    "italian": [
+      "prezzo",
+      "italiano",
+      "the italian"
+    ],
+    "jamaican": [
+      "jamaica"
+    ],
+    "japanese": [
+      "sushi",
+      "beni hana"
+    ],
+    "korean": [
+      "korea",
+      "koreans"
+    ],
+    "lebanese": [
+      "lebanse"
+    ],
+    "north american": [
+      "american",
+      "hamburger",
+      "north america"
+    ],
+    "portuguese": [
+      "portugese",
+      "portuguese cuisine"
+    ],
+    "seafood": [
+      "sea food",
+      "shellfish",
+      "fish"
+    ],
+    "singaporean": [
+      "singapore",
+      "singaporiano",
+      "singaporian"
+    ],
+    "steakhouse": [
+      "steak house",
+      "steak",
+      "steaks"
+    ],
+    "thai": [
+      "thailand",
+      "bangkok"
+    ],
+    "traditional": [
+      "old fashioned",
+      "plain"
+    ],
+    "turkish": [
+      "turkey",
+      "turks",
+      "turkish dishes",
+      "typical turkish"
+    ],
+    "unusual": [
+      "unique and strange"
+    ],
+    "venetian": [
+      "vanessa"
+    ],
+    "vietnamese": [
+      "vietnam",
+      "thanh binh"
+    ]
+  }
+}
