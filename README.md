@@ -59,7 +59,7 @@ Supported datasets are:
 - WOZ 2.0 (see data/)
 - MultiWOZ 2.1 (see data/, https://github.com/budzianowski/multiwoz.git)
 
-The prepared and processed datasets for this work is 'Data.zip'. Please unzip it to the data/ folder.
+The prepared and processed datasets for this work is ```'preprocessed_data.zip'```. Please unzip it to the data/ folder for your convenience.
 
 Partial codes are modified from [TripPy: A Triple Copy Strategy for Value Independent Neural Dialog State Tracking](https://www.aclweb.org/anthology/2020.sigdial-1.4/)
 
