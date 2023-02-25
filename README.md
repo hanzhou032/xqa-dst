@@ -2,19 +2,11 @@
 ![BGPBT](figs/xqa-dst.png)
 **Link to paper**:
 [XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking](https://arxiv.org/abs/2204.05895)
+
 Authors: Han Zhou, Ignacio Iacobacci, Pasquale Minervini
 
 In Findings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023.
 
-If you find our work to be useful, please cite:
-```
-@article{zhou2022xqa,
-  title={XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking},
-  author={Zhou, Han and Iacobacci, Ignacio and Minervini, Pasquale},
-  journal={arXiv preprint arXiv:2204.05895},
-  year={2022}
-}
-```
 ## Dependencies
 Install pytorch, transformers, tensorboardX, and Googletrans
 ```
@@ -67,3 +59,13 @@ Partial codes are modified from [TripPy: A Triple Copy Strategy for Value Indepe
 1. Add support for new multi-lingual ToD datasets.
 2. Replace the framework to the newest version of Huggingface transformers.
 
+## Cination
+If you find our work to be useful, please cite:
+```
+@article{zhou2022xqa,
+  title={XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking},
+  author={Zhou, Han and Iacobacci, Ignacio and Minervini, Pasquale},
+  journal={arXiv preprint arXiv:2204.05895},
+  year={2022}
+}
+```
