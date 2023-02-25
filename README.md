@@ -3,7 +3,7 @@
 **Link to paper**:
 [XQA-DST: Multi-Domain and Multi-Lingual Dialogue State Tracking](https://arxiv.org/abs/2204.05895)
 
-Authors: Han Zhou, Ignacio Iacobacci, Pasquale Minervini
+Authors: [Han Zhou](https://hzhou.top/), [Ignacio Iacobacci](https://iiacobac.wordpress.com/about/), [Pasquale Minervini](https://neuralnoise.com/)
 
 In Findings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023.
 
@@ -48,8 +48,8 @@ sh examples/example.test.xlmr.combine
 ```
 ## Datasets
 Supported datasets are:
-- WOZ 2.0 (see data/)
-- MultiWOZ 2.1 (see data/, https://github.com/budzianowski/multiwoz.git)
+- WOZ 2.0 
+- [MultiWOZ 2.1](https://github.com/budzianowski/multiwoz.git)
 
 The prepared and processed datasets for this work is ```'preprocessed_data.zip'```. Please unzip it to the data/ folder for your convenience.
 
